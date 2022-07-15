@@ -6,6 +6,7 @@ GCM-based inference (Experimental)
     :glob:
 
     introduction
+    draw_samples
     answering_causal_questions/index
     customizing_model_assignment
     estimating_confidence_intervals
